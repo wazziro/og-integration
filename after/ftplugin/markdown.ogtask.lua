@@ -1,0 +1,5 @@
+-- after/ftplugin/markdown.ogtask.lua
+-- このファイルは filetype=markdown.ogtask のために予約されています。
+-- nvim-og プラグインでこのファイルタイプに特有のLuaスクリプトがあれば、ここに記述できます。
+-- 現状、Treesitterの起動はファイルタイプ自体から自動的に行われるため、
+-- ここで明示的に Treesitter を起動するコードは不要です。

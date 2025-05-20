@@ -1,0 +1,14 @@
+{
+  "name": "nvim-og",
+  "version": "0.1.0",
+  "description": "A Neovim plugin for the og task management tool",
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/nvim-og"
+  },
+  "dependencies": {},
+  "engines": {
+    "neovim": ">=0.5.0"
+  }
+}
